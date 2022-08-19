@@ -1,0 +1,8 @@
+//便于传输，去除了node_modules文件夹，自行安装
+npm install xlsx 安装xlsx插件
+npm install echarts --save 安装echarts插件
+npm i element-ui -S 安装Element ui 
+npm install -g @vue/cli
+
+//启动
+npm run serve
